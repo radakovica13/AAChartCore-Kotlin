@@ -25,11 +25,11 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        /*drawChartByMonths()
-        drawChartByYears()
+        drawChartByMonths()
+        /*drawChartByYears()
         drawLineChart()
         drawPieChart()*/
-        drawAreaChart()
+        //drawAreaChart()
         drawSplineChart()
         drawScatterChart()
         drawRadarChart()
@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
             .animationDuration(2000)
     }
 
-    /*private fun drawChartByMonths() {
+    private fun drawChartByMonths() {
         val model = baseAnimation(
             AAChartModel()
                 .chartType(AAChartType.Column)
@@ -63,7 +63,7 @@ class MainActivity : AppCompatActivity() {
         binding.aaChartViewMonth.aa_drawChartWithChartModel(model)
     }
 
-    private fun drawChartByYears() {
+    /*private fun drawChartByYears() {
         val model = baseAnimation(
             AAChartModel()
                 .chartType(AAChartType.Bar)

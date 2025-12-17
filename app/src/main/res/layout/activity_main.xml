@@ -11,12 +11,12 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <!--<com.github.aachartmodel.aainfographics.aachartcreator.AAChartView
+        <com.github.aachartmodel.aainfographics.aachartcreator.AAChartView
             android:id="@+id/aaChartViewMonth"
             android:layout_width="match_parent"
             android:layout_height="300dp" />
 
-        <com.github.aachartmodel.aainfographics.aachartcreator.AAChartView
+        <!--<com.github.aachartmodel.aainfographics.aachartcreator.AAChartView
             android:id="@+id/aaChartViewYear"
             android:layout_width="match_parent"
             android:layout_height="300dp"

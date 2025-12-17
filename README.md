@@ -41,7 +41,7 @@ AAChartCore-Kotlin je licencirana pod:
 
 AAChartCore-Kotlin ima **veliko število uporabnikov** in se pogosto uporablja v Android projektih po vsem svetu. Priljubljenost knjižnice je razvidna iz aktivnosti na GitHubu, velikega števila zvezdic, forkov ter številnih primerov uporabe v realnih aplikacijah. Skupno jo uporablja **približno 10.000+ razvijalcev**, kar potrjuje njeno zanesljivost in priljubljenost.
 
-![logo](images/uporabniki.png)
+![uporabniki](images/uporabniki.png)
 
 ---
 
@@ -56,6 +56,8 @@ Prostorska zahtevnost je prav tako **O(n)**, dodatno pa zaradi uporabe **WebView
 ## Vzdrževanje 🔧
 
 Knjižnica AAChartCore-Kotlin je **aktivno vzdrževana** s strani odprtokodne skupnosti. Popravki, izboljšave in nove funkcionalnosti se redno objavljajo na GitHubu, kar zagotavlja stabilnost in kompatibilnost z novejšimi verzijami Android SDK-ja.
+
+![vzdrževanje](images/vzdrzevanje.png)
 
 ---
 
