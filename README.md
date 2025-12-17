@@ -270,7 +270,7 @@ Knjižnica **AAChartCore-Kotlin** omogoča tudi **animacije grafov**, ki poskrbi
 
 Na voljo so različni tipi animacij (npr. elastični, gladki ali odskočni prehodi), prav tako pa je mogoče nastaviti **trajanje animacije**. Animacije se izvajajo v JavaScript okolju znotraj WebView-a in delujejo tekoče tudi pri bolj kompleksnih grafih.
 
-![AAChart demo](images/animation1.mp4)
+![AAChart demo](images/emulator1.mp4)
 ![AAChart demo](images/animation2.mp4)
 
 
