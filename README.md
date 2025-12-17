@@ -264,6 +264,16 @@ private fun drawRadarChart() {
 ![logo](images/spider.png)
 
 
+## Animacije grafov 🎞️
+
+Knjižnica **AAChartCore-Kotlin** omogoča tudi **animacije grafov**, ki poskrbijo za boljšo preglednost in prijetnejšo uporabniško izkušnjo. Ob izrisu se grafi lahko animirano prikažejo, kar uporabniku olajša razumevanje sprememb in trendov v podatkih.
+
+Na voljo so različni tipi animacij (npr. elastični, gladki ali odskočni prehodi), prav tako pa je mogoče nastaviti **trajanje animacije**. Animacije se izvajajo v JavaScript okolju znotraj WebView-a in delujejo tekoče tudi pri bolj kompleksnih grafih.
+
+![AAChart demo](images/animation1.gif)
+![AAChart demo](images/animation2.gif)
+
+
 ## Uporaba v aplikaciji 📱
 
 Knjižnico sem uporabila v drugi aplikaciji pri predmetu PORA za prikazovanje statistike in analitičnih podatkov.
