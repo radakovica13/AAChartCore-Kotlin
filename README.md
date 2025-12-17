@@ -39,7 +39,9 @@ AAChartCore-Kotlin je licencirana pod:
 
 ## Ocenitev števila uporabnikov 👤
 
-AAChartCore-Kotlin ima **veliko število uporabnikov** in se pogosto uporablja v Android projektih po vsem svetu. Priljubljenost knjižnice je razvidna iz aktivnosti na GitHubu, velikega števila zvezdic, forkov ter številnih primerov uporabe v realnih aplikacijah.
+AAChartCore-Kotlin ima **veliko število uporabnikov** in se pogosto uporablja v Android projektih po vsem svetu. Priljubljenost knjižnice je razvidna iz aktivnosti na GitHubu, velikega števila zvezdic, forkov ter številnih primerov uporabe v realnih aplikacijah. Skupno jo uporablja **približno 10.000+ razvijalcev**, kar potrjuje njeno zanesljivost in priljubljenost.
+
+![logo](images/uporabniki.png)
 
 ---
 
@@ -272,6 +274,8 @@ Na voljo so različni tipi animacij (npr. elastični, gladki ali odskočni preho
 
 ![AAChart demo](images/animation1.gif)
 ![AAChart demo](images/animation2.gif)
+
+[GitHub](https://github.com/AAChartModel/AAChartCore-Kotlin)
 
 
 ## Uporaba v aplikaciji 📱
